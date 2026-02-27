@@ -5,7 +5,7 @@ import time
 import random
 
 # =============================
-# CONFIG
+# CONFIGd
 # =============================
 
 st.set_page_config(page_title="Aira - AI Companion")
